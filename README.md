@@ -2,7 +2,7 @@
 Тестовое задание по направлению "ПРОГРАММИРОВАНИЕ" в Lesta Games Academy
 
 
-<h1>Исходеые файлы</h1>
+<h1>Исходные файлы</h1>
 <a href="https://github.com/DimaVor/LestaTestTask/tree/main/Assets/Scripts">В папке со скриптами</a> находятся:
 Игровая модель - /GameModel, описывающая логику отдельно от Unity.
 
